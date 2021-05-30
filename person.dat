@@ -1,0 +1,7 @@
+package com.example.person
+id java.lang.Integer 1
+name java.lang.String 0
+address java.lang.String 0
+ssn java.lang.Integer 1
+age int 0
+sex char 0
